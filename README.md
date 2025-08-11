@@ -1,6 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://cdn.vectorstock.com/i/1000v/26/62/data-analysis-colorful-modern-banner-vector-19132662.jpg" alt="Sujata Kayal Banner" width="100%" />
+
+  <img src="https://analyticsindiamag.com/wp-content/uploads/2021/07/Untitled-design-22-1.jpg" width="100%" />
 </p>
 
 <!-- Typing Animation -->
@@ -8,16 +9,13 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=F7B93E&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Sujata+Kayal;Data+Analyst;Tech+Enthusiast;Visualization+Expert" />
 </p>
-
----
-
 <!-- About Me -->
 <h2 align="center">🧑‍💻 About Me</h2>
 <p align="center">
-  🎯 Passionate about <b>data-driven decision making</b> and transforming raw data into valuable insights.  
-  🌱 Learning advanced analytics & visualization techniques.  
-  🌍 Open to collaborations in <b>data analytics, visualization & backend projects</b>.  
-  📫 Reach me at: <a href="mailto:sujatakayal@example.com">sujatakayal@example.com</a>  
+  🎯 Passionate about <b>data-driven decision making</b> and transforming raw data into valuable insights.  <br>
+  🌱 Learning advanced analytics & visualization techniques.    <br>
+  🌍 Open to collaborations in <b>data analytics, visualization & backend projects</b>.    <br>
+  📫 Reach me at: <a href="mailto:sujatakayal2005@gmail.com">sujatakayal Email </a>    <br>
 </p>
 
 ---
